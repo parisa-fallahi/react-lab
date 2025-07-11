@@ -5,8 +5,8 @@ function App() {
   
   return (
     <div>
-      <h1>botostart</h1>
-      <p>React Course-1</p>
+      <h1>Test</h1>
+      <p>Header Test</p>
     </div>
   )
 }
